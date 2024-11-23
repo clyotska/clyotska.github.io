@@ -23,6 +23,9 @@ p{
 #sad{
     background-color: #6E84D6;
 }
+#iut li{
+    font-family: 'Courier New', Courier, monospace;
+}
 body{
     font-size: 1.2em;
 }
