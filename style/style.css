@@ -1,0 +1,28 @@
+table{
+    border-spacing: 0.5px;
+}
+#table-top td, th{
+    height: 35px;
+}
+th,td{
+    border: 2px solid black;
+}
+#table-top td{  
+    background-color: #FFAB73;
+    font-size: 1.2em;
+}
+#table-top th{
+    background-color: #85EB6A;
+}
+p{
+    font-size: 1.3em;
+}
+#happy{
+    background-color: #FFD473;
+}
+#sad{
+    background-color: #6E84D6;
+}
+body{
+    font-size: 1.2em;
+}
